@@ -2,12 +2,12 @@
 <!-- ============================================================
    SITEMAP.XML — STAGING VERSION
    URL intentionally left as placeholder until domain is live.
-   Before deploy: replace yourdomain.com with real domain.
+   Before deploy: replace younglobal.com with real domain.
    After deploy: add Sitemap line to robots.txt.
 ============================================================ -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://yourdomain.com/</loc>
+    <loc>https://younglobal.com/</loc>
     <lastmod>2026-02-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>

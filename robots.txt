@@ -2,7 +2,7 @@
 # ROBOTS.TXT — STAGING VERSION
 # Sitemap line intentionally omitted until domain is live.
 # When domain is confirmed, add:
-# Sitemap: https://yourdomain.com/sitemap.xml
+# Sitemap: https://younglobal.com/sitemap.xml
 # ============================================================
 
 User-agent: *
