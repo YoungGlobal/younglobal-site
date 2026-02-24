@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- ============================================================
    SITEMAP.XML — STAGING VERSION
-   URL intentionally left as placeholder until domain is live.
-   Before deploy: replace younglobal.com with real domain.
-   After deploy: add Sitemap line to robots.txt.
+   URL Domain is live.
 ============================================================ -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
